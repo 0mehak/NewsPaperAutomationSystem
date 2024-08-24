@@ -1,6 +1,7 @@
 # Newspaper Automation System
 
-![Newspaper Automation System]((assets/main.png))
+![Newspaper Automation System](assets/main.png)
+![alt text](image.png)
 
 The **Newspaper Automation System** is a comprehensive Java-based application designed to automate various tasks in newspaper management, making the workflow more efficient and reducing manual effort. This system leverages a robust technology stack to ensure reliability, ease of use, and efficient data management.
 
