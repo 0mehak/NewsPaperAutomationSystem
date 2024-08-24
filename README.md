@@ -1,6 +1,6 @@
 # Newspaper Automation System
 
-![Newspaper Automation System](assets/main.png)
+<img src="assets/main.png" alt="Newspaper Automation System" width="400"/>
 
 
 The **Newspaper Automation System** is a comprehensive Java-based application designed to automate various tasks in newspaper management, making the workflow more efficient and reducing manual effort. This system leverages a robust technology stack to ensure reliability, ease of use, and efficient data management.
@@ -23,7 +23,9 @@ The **Newspaper Automation System** is a comprehensive Java-based application de
 - **Database Integration**: Utilizes MySQL for secure and efficient data storage and retrieval, managed through MySQL Workbench.
 - **Version Control**: Implemented with Git and GitHub to track changes, collaborate with others, and maintain code integrity.
 <hr>
+
 ## Gratitude
+
 Thank you for taking the time to visit this project! Your feedback is highly appreciated. If you have any suggestions, questions, or just want to share your thoughts, feel free to open an issue or contact me directly. Your support helps improve this project and make it more useful for everyone.
 
 Best Regards,
