@@ -7,6 +7,7 @@ display the details of hawkers recorded in a MySQL database. This system allows 
  to fetch and view all the details of hawkers in a structured table format. 
 <hr>
 <img src="assets/Fetch-hawker.png" alt="Paper" width="850"/>
+
 ### Features
 
 - **Data Fetching**: Retrieve and display hawker information from the database.
@@ -19,6 +20,7 @@ display the details of hawkers recorded in a MySQL database. This system allows 
   - **Allocated Areas**
   - **Date of Joining**
 <hr>
+
 ### How It Works
 
 1. **Database Connection**: The application connects to a MySQL database using JDBC.
