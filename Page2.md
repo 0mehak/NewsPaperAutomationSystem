@@ -2,7 +2,7 @@
 
 The **Paper Master** feature provides administrators with a comprehensive interface to manage and search for various papers within the Newspaper Automation System. Using the dropdown menu, admins can easily select a specific paper to view its details, including availability and corresponding pricing information. This streamlined process allows for efficient paper management, ensuring that administrators can quickly access necessary information.
 
-![Paper Master Interface](assets/paper-master.png){: width=350px}
+<img src="assets/paper-master.png" alt="Paper" width="600"/>
 
 The Paper Master interface includes three key action buttons: **Withdraw**, **Edit**, and **Check Price**. 
 - **Withdraw**: This button allows administrators to remove a selected paper from the system, ensuring that outdated or unavailable papers are no longer accessible.
