@@ -4,16 +4,16 @@ The **Admin Desk** feature is designed to provide administrators with a comprehe
 
 <img src="assets/AdminDesk.png" alt="Paper" width="850"/>
 
- **[Login Page](Page1.md)**
- **[Paper Details](Page2.md)**
- **[Hawker Manager](Page3.md)**
- **[Customer Manager](Page4.md)**
- **[Bill Generator](Page4.5.md)**
- **[Bill Collector](Page5.md)**
- **[Hawker Manager Table](Page6.md)**
- **[Customer Table](Page7.md)**
- **[Bill Board](Page8.md)**
- **[Meet the Developers](Page10.md)**
+ **[Login Page](Page1.md)**<br>
+ **[Paper Details](Page2.md)**<br>
+ **[Hawker Manager](Page3.md)**<br>
+ **[Customer Manager](Page4.md)**<br>
+ **[Bill Generator](Page4.5.md)**<br>
+ **[Bill Collector](Page5.md)**<br>
+ **[Hawker Manager Table](Page6.md)**<br>
+ **[Customer Table](Page7.md)**<br>
+ **[Bill Board](Page8.md)**<br>
+ **[Meet the Developers](Page10.md)**<br>
 <hr>
 
 ### Features
