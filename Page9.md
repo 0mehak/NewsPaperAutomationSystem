@@ -30,3 +30,5 @@ The **Admin Desk** feature is designed to provide administrators with a comprehe
 4. **Close Dialog**: Administrators can easily close the dialog box to return to the main Admin Desk view, maintaining a smooth workflow.
 
 This Admin Desk feature streamlines administrative operations by consolidating essential functions into one accessible location, enhancing productivity and efficiency for administrators.
+
+**[Customer Manager](Page2.md)**
