@@ -4,6 +4,17 @@ The **Admin Desk** feature is designed to provide administrators with a comprehe
 
 <img src="assets/AdminDesk.png" alt="Paper" width="850"/>
 
+1. **[Login Page](Page1.md)**: Access the login portal for administrators and users.
+2. **[PaperMaster](Page2.md)**: Manage all aspects related to paper distribution.
+3. **[Hawker Manager](Page3.md)**: Manage hawker profiles and operations.
+4. **[Customer Manager](Page4.md)**: Oversee customer details and interactions.
+5. **[Bill Collector](Page5.md)**: Track and manage billing operations.
+6. **[Hawker Manager Table](Page6.md)**: View and manage hawker-related data in a tabular format.
+7. **[Customer Table](Page7.md)**: View and manage customer data in a tabular format.
+8. **[Bill Board](Page8.md)**: Access and review billing information and records.
+9. **[Meet the Developers](Page10.md)**: Learn about the development team behind this project.
+
+
 ### Features
 
 - **Button Navigation**: A series of buttons are available on the Admin Desk, each representing a different administrative function, such as managing users, viewing reports, or updating settings.
