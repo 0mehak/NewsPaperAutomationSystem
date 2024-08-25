@@ -9,3 +9,5 @@ Administrators can register new hawkers by filling out a straightforward form th
 Additionally, the Hawker Manager allows administrators to upload pictures of hawkers, providing a visual reference that can help enhance the system's database. If necessary, hawkers can be removed from the system using the fire option, ensuring that the records are kept accurate and up-to-date.
 
 Overall, the Hawker Manager feature streamlines the management of hawker registrations, making it easier for administrators to oversee operations and maintain a reliable database.
+
+### - [Continue the Journey...](Page4.md)

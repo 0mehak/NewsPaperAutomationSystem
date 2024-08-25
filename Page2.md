@@ -10,3 +10,5 @@ The Paper Master interface includes three key action buttons: **Withdraw**, **Ed
 - **Check Price**: This function provides instant access to the current pricing of the selected paper, helping administrators make informed decisions regarding inventory and sales.
 
 Overall, the Paper Master feature is designed to enhance the efficiency of paper management, making it easier for administrators to maintain an organized and updated catalog of available papers.
+
+### - [Continue the Journey...](Page3.md)

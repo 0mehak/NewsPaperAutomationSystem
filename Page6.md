@@ -42,3 +42,5 @@ To use this application:
        picpath VARCHAR(500),
        doj DATE
    );
+
+### - [Continue the Journey...](Page7.md)

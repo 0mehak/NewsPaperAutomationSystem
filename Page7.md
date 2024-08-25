@@ -23,3 +23,5 @@ The **Customer Dashboard** provides a comprehensive view of hawkers based on the
 4. **Fetch Button**: Users can click the "Fetch" button to refresh the data and see the latest information available.
 
 This dashboard enhances user experience by simplifying the process of locating hawkers and their offerings, thus bridging the gap between customers and local vendors.
+
+### - [Continue the Journey...](Page8.md)

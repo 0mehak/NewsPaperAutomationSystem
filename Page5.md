@@ -9,3 +9,5 @@ When using the Bill Collector, administrators can enter a customer's registered 
 Once the bill is generated, the customer can review the details, including the total amount due. To complete the payment process, customers simply click the **Complete Payment** button. This functionality streamlines the payment process, allowing for efficient transaction management and ensuring that customers can quickly settle their bills.
 
 The Bill Collector enhances the overall efficiency of billing operations within the Newspaper Automation System, providing a reliable and user-friendly interface for managing customer payments. By automating the bill calculation and payment processes, this feature helps maintain accurate financial records and improves customer satisfaction.
+
+### - [Continue the Journey...](Page6.md)
