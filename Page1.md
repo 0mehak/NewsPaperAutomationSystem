@@ -5,3 +5,5 @@ The **Login Page** serves as the entry point for administrators to access the Ne
 ![Login Page Screenshot](assets/loginPage.png)
 
 Upon entering their password, administrators can efficiently access the system's functionalities, enabling them to oversee operations and make necessary updates. The streamlined login process ensures that administrators can focus on managing tasks effectively and securely, allowing for a smooth transition into the main features of the application.
+
+### - [Continue the Journey...](Page2.md)
